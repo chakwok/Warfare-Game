@@ -1,0 +1,9 @@
+.menu-title {
+    -fx-font-size: 25;
+
+}
+.menu-button {
+     -fx-pref-width:200;
+     -fx-pref-height:40;
+     -fx-padding: 8 15 15 15;
+}
